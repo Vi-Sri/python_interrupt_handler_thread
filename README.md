@@ -21,7 +21,7 @@ Robot is self sufficient to perform basic movement tasks. It does the following.
     - Manage its own state and memory
     - Listen to Mission Controller on demand
 
-## Mission Controller
+### Mission Controller
 Mission controller is the kernel of the operation. Commands the robot to move based on the trajectory 
 received from the user 
     - A Single flow control to maneuver the robot
